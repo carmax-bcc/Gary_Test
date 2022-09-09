@@ -4,7 +4,7 @@
 The test is a fairly straightforward TDD style task. When you open the solution you will see there are two projects in it: MPG_Test and MPG_Test.Tests. 
 The two files you will be concerned with are `MPGCalc.cs` and `MPGCalc_Tests.cs`
 
-![Screenshot](Readme.Resources\\SolutionView.jpg?raw=true, "Solution View")
+![Screenshot]("https://github.carmax.com/Brian-Connelly/Canidate_Test/blob/master/Readme.Resources/SolutionView.jpg?raw=true", "Solution View")
 ### Xunit 'test'
 In the Tests project there is one file `MPGCalc_Tests.cs` with one `[Fact]`, and that has some light scaffolding and several 'Assertions'.
 

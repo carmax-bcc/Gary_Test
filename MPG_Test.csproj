@@ -13,4 +13,10 @@
     <None Remove="MPG_TestTests\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove=".gitattributes" />
+    <None Remove=".gitignore" />
+    <None Remove="MPGCalc.cs.bak" />
+  </ItemGroup>
+
 </Project>

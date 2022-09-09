@@ -7,6 +7,7 @@ namespace MPGTest
     static public double? GetAverageMpg(IEnumerable<Vehicle>? vehicles, string make)
     {
       #region Solution
+
       #endregion
     }
   }

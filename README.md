@@ -20,7 +20,7 @@ In the Tests project there is one file `MPGCalc_Tests.cs` with one `[Fact]`, and
 These Assertions define how the 'GetAverageMpg' method should behave and this is your challenge.
 
 ### `MPGCalc` - Your solution
-The  `MPGCalc.cs` has a single method `GetAverageMpg` and there is a region in it marked solution which is where you should provide you code.
+The  `MPGCalc.cs` has a single method `GetAverageMpg` and there is a region in it marked solution which is where you should provide your code.
 <pre style="font-family:Cascadia Mono;font-size:13px;color:white;"><span style="color:#ebbbff;">static</span>&nbsp;<span style="color:#ebbbff;">public</span>&nbsp;<span style="color:#ebbbff;">double</span><span style="color:#99ffff;">?</span>&nbsp;<span style="color:#bbdaff;">GetAverageMpg</span>(<span style="color:#ff9da4;">IEnumerable</span>&lt;<span style="color:#ff9da4;">Vehicle</span>&gt;<span style="color:#99ffff;">?</span>&nbsp;<span style="color:#ff9da4;">vehicles</span>,&nbsp;<span style="color:#ebbbff;">string</span>&nbsp;<span style="color:#ff9da4;">make</span>)
 &nbsp;&nbsp;&nbsp;{
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ebbbff;">#region</span>&nbsp;<span style="color:#d1f1a9;">Solution</span>
